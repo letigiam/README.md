@@ -27,11 +27,6 @@ Now I love my job and team works.
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 </p>
 
-## 💾 Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
 ## ⚙️ IDE & Editors
 <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -70,6 +65,23 @@ Now I love my job and team works.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=letigiam&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" />
+</p>
+
+
+## 🏆GitHub Trophies
+<p align="center" style="witdh:100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=kasuken&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
+</p>
+
+
+## 📚 Education
+<p align="center" style="witdh:100%">
+  <ul>
+    <li>Accademia Belle Arti - Nike - 2003 - Restauro - Catania</li>
+    <li>Millennium - 2003  - Grafica Computerizzata - Catania</li>
+    <li>Accademia Belle Arti - 2012  - Graphic Design - Catania</li>
+    <li>ITS Steve Jobs Academy - 2021 - Web Development & Analisys - Catania</li>
+  </ul>
 </p>
 
 ---
